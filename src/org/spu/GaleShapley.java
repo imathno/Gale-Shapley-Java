@@ -1,3 +1,5 @@
+package org.spu;
+
 import java.util.*;
 
 public class GaleShapley {

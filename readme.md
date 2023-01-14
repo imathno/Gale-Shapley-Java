@@ -8,7 +8,7 @@ This implementation was followed as closely as possible to keep the algorithm at
 An example of executing this program from the command line is you will give the row, cols, group1.txt, group2.txt and will output the stable match.\
 
 #### Example Execution
-gs.jar 4, 5, a.txt, b.txt\
+gs.jar 4, 5, a.txt, b.txt
  
  The text files are supposed to look like a 2d matrix seperated with commands below you'll see an example.
 
